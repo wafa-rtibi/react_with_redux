@@ -1,0 +1,13 @@
+.task{
+    display: flex;   
+}
+.myTask{
+    display:flex;   
+}
+span{
+    margin-left: 10px;
+}
+.buttons{
+    display: flex;
+    margin-bottom: 10px;
+}

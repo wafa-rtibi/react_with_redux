@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Roboto:ital,wght@1,300;1,400;1,500&display=swap');
+.home{
+        display: flex;
+        flex-direction: column;
+        bottom: 0;
+        top: 0;
+}
+h1{
+        font-family: 'Lobster', cursive;
+}
+.buttons{
+        display: flex;
+        justify-content: center;
+}
